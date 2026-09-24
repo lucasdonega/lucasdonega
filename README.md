@@ -1,56 +1,52 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Lucas Donega
-
-<div align="center">
-
-### 💻 Software Development Student
-
-</div>
-
----
-
+<p align="center">
+  <img src="assets/header.svg" alt="Lucas Donega - github.com/lucasdonega" width="100%" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&height=45&lines=Software+Development+Student;Cybersecurity+%26+AI;Learning+something+new+every+day" alt="Typing animation" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasdonega&label=Profile+views&color=3b82f6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/lucasdonega?label=Followers&style=flat&color=38bdf8" alt="Followers" />
+</p>
+## 👋 About me
+ 
 Software Development student passionate about learning, problem-solving, and building useful projects. Always exploring new ideas, improving my skills, and growing as a developer.
-
-- 🌍 Based in **São Paulo, Brazil**
-- ✉️ Contact: **lucas.donega.2009@gmail.com**
-- 🧠 Studying **Software Development** at **SENAI São Caetano do Sul (Cybersecurity & AI Program)**
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++"/></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma"/></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="40" height="40" alt="Arduino"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40" height="40" alt="AWS"/></a>
+ 
+- 🌎 Based in São Paulo, Brazil
+- 🎓 Studying Software Development at SENAI São Caetano do Sul (Cybersecurity & AI Program)
+- 📫 Contact: [lucas.donega.2009@gmail.com](mailto:lucas.donega.2009@gmail.com)
+- 💼 LinkedIn: [Lucas de Oliveira Donega](https://www.linkedin.com/in/lucas-de-oliveira-donega-609b953a3/)
+## 🛠️ Technologies
+ 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
+## 📊 GitHub Stats
+ 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/lucasdonega?style=for-the-badge&label=Followers&color=0891b2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasdonega&show_icons=true&hide_border=false&bg_color=0D1B2A&title_color=60A5FA&text_color=E2E8F0&icon_color=3B82F6&border_color=3B82F6" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdonega&layout=compact&hide_border=false&bg_color=0D1B2A&title_color=60A5FA&text_color=E2E8F0&border_color=3B82F6" alt="Most used languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdonega&theme=github_dark" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=lucasdonega&background=0D1B2A&border=3B82F6&ring=3B82F6&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=94A3B8" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasdonega&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Socials
-
-<p align="center">
-<a href="https://github.com/lucasdonega">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="35" height="35" alt="GitHub"/>
-</a>
+ 
+<p>
+  <a href="https://www.linkedin.com/in/lucas-de-oliveira-donega-609b953a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lucas.donega.2009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/lucasdonega"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
