@@ -2,12 +2,13 @@
   <img src="assets/header.svg" alt="Lucas Donega - github.com/lucasdonega" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&height=45&lines=Software+Development+Student;Cybersecurity+%26+AI;Learning+something+new+every+day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&height=45&lines=Software+Development+Student;Building+useful+projects;Learning+something+new+every+day" alt="Typing animation" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasdonega&label=Profile+views&color=3b82f6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/lucasdonega?label=Followers&style=flat&color=38bdf8" alt="Followers" />
 </p>
+
 ## 👋 About me
  
 Software Development student passionate about learning, problem-solving, and building useful projects. Always exploring new ideas, improving my skills, and growing as a developer.
@@ -34,15 +35,14 @@ Software Development student passionate about learning, problem-solving, and bui
   <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
+</p>
+
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasdonega&show_icons=true&hide_border=false&bg_color=0D1B2A&title_color=60A5FA&text_color=E2E8F0&icon_color=3B82F6&border_color=3B82F6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdonega&layout=compact&hide_border=false&bg_color=0D1B2A&title_color=60A5FA&text_color=E2E8F0&border_color=3B82F6" alt="Most used languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=lucasdonega&background=0D1B2A&border=3B82F6&ring=3B82F6&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=94A3B8" alt="GitHub streak" />
 </p>
+
 ## 🌐 Socials
  
 <p>
